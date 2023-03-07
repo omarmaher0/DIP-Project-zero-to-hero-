@@ -1,4 +1,4 @@
-# DIP-Project-zero-to-hero-
+# DIP-Project-zero-to-hero
 make your own web app using streamlit using Python programming language
 You will learn how to use streamlit.
 requirements:-
